@@ -1,0 +1,4 @@
+12~Blue shoes~Female~Shoes~L~Nike~31~12~5~2~Washable~Nice~
+2~21~Male~Shoes~XL~211~21~12~4~12~Washable~21~
+01~GUCCI Jacket~Male~Jacket~XXL~GUCCI~20000~10~4~20~Washable~Very Good~
+1~Sweater~Male~Sweater~L~GUCCI~2000~5~3~20~Washable & Dryable~Goof~
